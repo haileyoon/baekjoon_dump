@@ -1,0 +1,39 @@
+문제
+In the far away land there is a big river and a number of villages beside it. Villages are numbered 0 through M, in order along the river. Distance between consecutive villages is exactly 1 mile. 
+
+Mirko lives in the village marked with 0. He is in the business of transporting people between villages with his boat. Today, Mirko will travel from his village to village M, and he will also transport some people along the way. 
+
+There are N people that wish to travel today, and for each of them we know their starting point as well as their destination. Mirko's boat can accommodate as many people as needed. 
+
+Let's say for example that person A is traveling from village 2 to village 8, and B from village 6 to village 4. Mirko will, as always, start from his village 0, pick up A at village 2, pickup B at 6, go back to 4 and leave B there, proceed to village 8, leave A there, and then continue to his final destination, village M. This scenario is given in the first test case below. 
+
+Write a program that will find the minimum number of miles that Mirko must travel in order to transport everyone to their destinations and reach village M at the end. 
+
+입력
+The first line of input contains integers N and M (N ≤ 300 000, 3 ≤ M ≤ 109). 
+
+The following N lines contain two integers, starting point and destination for each villagers that want's to travel today. These number will be in range 0 to M. 
+
+출력
+Output the minimum number of miles that Mirko must travel.
+
+ 
+
+예제 입력 1 
+2 10
+2 8
+6 4
+예제 출력 1 
+14
+예제 입력 2 
+8 15
+1 12
+3 1
+3 9
+4 2
+7 13
+12 11
+14 11
+14 13
+예제 출력 2 
+27
