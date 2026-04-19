@@ -1,0 +1,31 @@
+문제
+A lengthy drought has left Farmer John's 
+$N$ pastures devoid of grass. However, with the rainy season arriving soon, the time has come to "revegetate". In Farmer John's shed, he has two buckets, each with a different type of grass seed. He wants to plant grass in each of his 
+$N$ pastures, choosing exactly one type of grass to plant in each.
+
+Being a dairy farmer, Farmer John wants to make sure he manages the somewhat particular dietary needs of his 
+$M$ cows. Each of his 
+$M$ cows has two favorite pastures. Some of his cows have a dietary restriction that they should only eat one type of grass consistently --- Farmer John therefore wants to make sure the same type of grass is planted in the two favorite fields of any such cow. Other cows have a very different dietary restriction, requiring them to eat different types of grass. For those cows, Farmer John of course wants to make sure their two favorite fields contain different grass types.
+
+Please help Farmer John determine the number of different ways he can plant grass in his 
+$N$ pastures.
+
+입력
+The first line of input contains 
+$N$ (
+$2 \leq N \leq 10^5$) and 
+$M$ (
+$1 \leq M \leq 10^5$). Each of the next 
+$M$ lines contains a character that is either 'S' or 'D', followed by two integers in the range 
+$1 \ldots N$, describing the pair of pastures that are the two favorites for one of Farmer John's cows. If the character is 'S', this line represents a cow that needs the same type of grass in its two favorite pastures. If the character is 'D', the line represents a cow that needs different grass types.
+
+출력
+Output the number of ways Farmer John can plant grass in his 
+$N$ pastures. Please write your answer in binary.
+
+예제 입력 1 
+3 2
+S 1 2
+D 3 2
+예제 출력 1 
+10
