@@ -1,1 +1,58 @@
 1000 1018 1032 1051 1100 1110 1135 1145 1152 1157 1158 1159 1181 1233 1248 1260 1268 1302 1316 1330 1449 1453 1477 1568 1654 1759 1764 1766 1773 1806 1911 1924 1927 1931 1939 1969 1978 2018 2042 2110 2143 2145 2160 2164 2167 2170 2178 2212 2217 2230 2252 2262 2343 2438 2458 2467 2468 2470 2473 2476 2480 2506 2511 2512 2529 2562 2563 2566 2573 2589 2606 2608 2609 2623 2628 2637 2644 2667 2675 2750 2789 2792 2798 2804 2805 2810 2822 2831 2836 2839 2846 2857 2875 2884 2897 2902 2908 2920 2947 2948 2953 2959 2965 2979 2999 3009 3020 3023 3028 3034 3035 3040 3041 3052 3273 3985 3986 4344 4562 4796 5218 5235 5354 5397 5426 5430 5523 5524 5533 5565 5585 5586 5597 5848 5866 5912 5931 5938 5939 5947 5957 6010 6013 6030 6123 6160 6209 6213 6236 6246 6778 7453 7568 7576 7597 7785 7795 8958 8983 9012 9517 9571 9610 9625 10026 10103 10211 10250 10395 10406 10448 10539 10546 10570 10610 10643 10652 10655 10672 10675 10773 10807 10808 10809 10810 10811 10813 10814 10816 10818 10828 10845 10866 10870 10871 10872 10986 11000 11047 11134 11399 11650 11651 11654 11659 11660 11724 11726 11945 11950 11967 11968 11969 11970 11971 11973 11974 11976 11998 11999 12000 12004 12904 13236 13240 13334 13349 13397 13565 13698 13904 14167 14170 14171 14172 14173 14174 14175 14246 14452 14453 14456 14457 14465 14467 14469 14527 14528 14532 14682 14697 14720 14761 15423 15460 15589 15592 15593 15748 15749 15751 15761 15961 15970 15976 16139 16174 16401 16510 16546 16766 16767 16768 16769 16770 17025 17026 17027 17037 17038 17124 17198 17199 17215 17608 17619 17912 17952 18141 18312 18322 18786 18787 18788 18870 18877 18881 20053 20647 20922 21820 25101 27433 27849
+
+
+
+1135 - dynamic, greedy, tree
+1248 - brute force
+1477 - binary search, parametric search
+1759 - (USACO November 2005 Bronze) brute force
+1766 - prioity queue, graph theory, directed graph, topological sorting
+1806 - two pointer
+1911 - (USACO US Open 2005 Silver) greedy, sweep, sort
+1931 - greedy, sort
+1939 - BFS, graph search, dijkstra algorithm, union find
+2042 - segment tree
+2110 - (USACO Feburary 2005 Gold) binary search, parametric search
+2143 - (KOI 2001) hash, prefix sum, binary
+2170 - sort, sweep
+2212 - greedy, sort
+2230 - sort, two pointer
+2252 - graph theory, directed graph, topological sorting
+2262 - greedy
+2343 - binary search, parametric search
+2458 - graph theory, DFS, shortest path, floyd warshall
+2467 - (KOI 2010) binary search, two pointer
+2470 - (KOI 2010) sort, binary search, two pointer
+2473 - (KOI 2010) sort, binary search, two pointer
+2573 - (KOI 2006) BFS, DFS, graph theory
+2589 - brute force, BFS, graph search, 
+2608 - string
+2623 - (KOI 2002) graph theory, directed graph, topological sorting
+2637 - (KOI 2000) dynamic, graph theory, directed graph, topological sorting
+2831 - greedy, sort, two pointer
+2836 - sort, sweep
+3020 - binary, prefix sum, difference array
+5430 - string, deck
+5931 - (USACO November 2011 Bronze) graph theory, BFS
+6209 - (USACO December 2006 Silver) greedy, binary search, parametric search
+6213 - (USACO January 2007 Gold) segment tree, data structure
+7453 - binary search, two pointer
+7576 - graph theory, BFS, shortest path
+8983 - (KOI 2013) binary search
+9571 - (USACO November 2013 Silver) segment tree, two pointer
+10026 - (USACO March 2014 Bronze) DFS, BFS, graph theory
+10652 - (USACO December 2014 Silver) BFS, graph search, dijkstra algorithm, shortest path
+10672 - (USACO January 2015 Silver) sort, priority queue, sweep
+10986 - prefix sum
+11000 - greedy, priority queue, sort
+11967 - (USACO December 2015 Silver) BFS, graph search
+11974 - (USACO January 2016 Silver) prefix sum
+11998 - (USACO February 2016 Silver) BFS, graph theory
+12004 - (USACO US Open 2016 Silver) union find, graph theory
+12904 - greedy, string
+13334 - sort, sweep, priority queue
+13349 - binary search, graph search, dijkstra algorithm, shortest path
+13397 - binary search, parametric search
+13904 - greedy, sort, priority queue
+14167 - (USACO 2016 December Gold) kruskal
+14171
