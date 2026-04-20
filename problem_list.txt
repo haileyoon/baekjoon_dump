@@ -68,4 +68,14 @@
 15876 - (KOI 2018) binary search, prefix sum
 16766 - (USACO 2018 December Silver) binary search, parametric search
 16767 - (USACO 2018 December Silver) priority queue
-16768 - (USACO 2018 December Silver)
+16768 - (USACO 2018 December Silver) BFS, DFS, graph theory
+17025 - (USACO 2019 January Silver) BFS, DFS, graph theory
+17026 - (USACO 2019 January Silver) sweep
+17037 - (USACO 2019 February Silver)
+17038 - (USACO 2019 February Silver)
+17215
+17619 - (KOI 2019) sweep, union find
+18877 - (USACO 2020 US Open Silver) binary search, parametric search
+20647 - (USACO 2020 December Silver) graphy theory, greedy
+21820 - (USACO 2021 US Open Bronze) greedy, binary search, parametric search
+
