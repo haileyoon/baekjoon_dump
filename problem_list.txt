@@ -55,4 +55,17 @@
 13397 - binary search, parametric search
 13904 - greedy, sort, priority queue
 14167 - (USACO 2016 December Gold) kruskal
-14171
+14171 - (USACO 2016 December Silver) hash
+14172 - (USACO 2016 December Silver) BFS, DFS, graph theory
+14452 - (USACO 2017 January Silver) parametric search, priority queue, binary search
+14527 - (USACO 2017 US Open Silver) greedy, two pointer
+14532 - (USACO 2017 US Open Bronze) brute force
+15423 - dynamic, greedy
+15589 - (USACO 2018 January Silver) sweep
+15748 - (USACO 2018 February Silver) greedy
+15749 - (USACO 2018 February Silver) dynamic
+15961 - two pointer
+15876 - (KOI 2018) binary search, prefix sum
+16766 - (USACO 2018 December Silver) binary search, parametric search
+16767 - (USACO 2018 December Silver) priority queue
+16768 - (USACO 2018 December Silver)
